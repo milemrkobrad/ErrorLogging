@@ -1,0 +1,10 @@
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp1.1\ErrorLogging.deps.json
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp1.1\ErrorLogging.runtimeconfig.json
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp1.1\ErrorLogging.runtimeconfig.dev.json
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp1.1\ErrorLogging.dll
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp1.1\ErrorLogging.pdb
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp1.1\ErrorLogging.csprojResolveAssemblyReference.cache
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp1.1\ErrorLogging.csproj.CoreCompileInputs.cache
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp1.1\ErrorLogging.AssemblyInfo.cs
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp1.1\ErrorLogging.dll
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp1.1\ErrorLogging.pdb

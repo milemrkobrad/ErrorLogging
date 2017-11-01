@@ -1,0 +1,13 @@
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp2.0\ErrorLogging.Web.deps.json
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp2.0\ErrorLogging.Web.runtimeconfig.json
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp2.0\ErrorLogging.Web.runtimeconfig.dev.json
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp2.0\ErrorLogging.Web.dll
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp2.0\ErrorLogging.Web.pdb
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp2.0\ErrorLogging.Common.dll
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\bin\Debug\netcoreapp2.0\ErrorLogging.Common.pdb
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp2.0\ErrorLogging.Web.csprojResolveAssemblyReference.cache
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp2.0\ErrorLogging.Web.csproj.CoreCompileInputs.cache
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp2.0\ErrorLogging.Web.AssemblyInfoInputs.cache
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp2.0\ErrorLogging.Web.AssemblyInfo.cs
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp2.0\ErrorLogging.Web.dll
+C:\Users\Mile\Documents\Visual Studio 2017\Projects\ErrorLogging\ErrorLogging\obj\Debug\netcoreapp2.0\ErrorLogging.Web.pdb
